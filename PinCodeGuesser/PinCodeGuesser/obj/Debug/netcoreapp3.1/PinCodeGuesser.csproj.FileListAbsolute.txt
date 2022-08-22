@@ -1,0 +1,13 @@
+C:\Users\coopj\source\repos\PinCodeGuesser\PinCodeGuesser\bin\Debug\netcoreapp3.1\PinCodeGuesser.exe
+C:\Users\coopj\source\repos\PinCodeGuesser\PinCodeGuesser\bin\Debug\netcoreapp3.1\PinCodeGuesser.deps.json
+C:\Users\coopj\source\repos\PinCodeGuesser\PinCodeGuesser\bin\Debug\netcoreapp3.1\PinCodeGuesser.runtimeconfig.json
+C:\Users\coopj\source\repos\PinCodeGuesser\PinCodeGuesser\bin\Debug\netcoreapp3.1\PinCodeGuesser.runtimeconfig.dev.json
+C:\Users\coopj\source\repos\PinCodeGuesser\PinCodeGuesser\bin\Debug\netcoreapp3.1\PinCodeGuesser.dll
+C:\Users\coopj\source\repos\PinCodeGuesser\PinCodeGuesser\bin\Debug\netcoreapp3.1\PinCodeGuesser.pdb
+C:\Users\coopj\source\repos\PinCodeGuesser\PinCodeGuesser\obj\Debug\netcoreapp3.1\PinCodeGuesser.csprojAssemblyReference.cache
+C:\Users\coopj\source\repos\PinCodeGuesser\PinCodeGuesser\obj\Debug\netcoreapp3.1\PinCodeGuesser.AssemblyInfoInputs.cache
+C:\Users\coopj\source\repos\PinCodeGuesser\PinCodeGuesser\obj\Debug\netcoreapp3.1\PinCodeGuesser.AssemblyInfo.cs
+C:\Users\coopj\source\repos\PinCodeGuesser\PinCodeGuesser\obj\Debug\netcoreapp3.1\PinCodeGuesser.csproj.CoreCompileInputs.cache
+C:\Users\coopj\source\repos\PinCodeGuesser\PinCodeGuesser\obj\Debug\netcoreapp3.1\PinCodeGuesser.dll
+C:\Users\coopj\source\repos\PinCodeGuesser\PinCodeGuesser\obj\Debug\netcoreapp3.1\PinCodeGuesser.pdb
+C:\Users\coopj\source\repos\PinCodeGuesser\PinCodeGuesser\obj\Debug\netcoreapp3.1\PinCodeGuesser.genruntimeconfig.cache
